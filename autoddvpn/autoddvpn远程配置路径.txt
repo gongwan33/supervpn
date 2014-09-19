@@ -1,0 +1,7 @@
+http://gongwan34.3vzhuji.com/jffs/run.sh
+http://gongwan34.3vzhuji.com/pptp/vpndown.sh
+http://gongwan34.3vzhuji.com/pptp/vpnup.sh
+-----------------------------------------------
+http://gongwan34.3vzhuji.com/openvpn/run.sh
+-----------------------------------------------
+http://gongwan34.3vzhuji.com/start_autoddvpn.sh
