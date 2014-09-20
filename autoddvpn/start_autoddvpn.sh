@@ -8,5 +8,5 @@ wget http://gongwan34.3vzhuji.com/pptp/vpndown.sh
 chmod a+x run.sh
 chmod a+x vpnup.sh
 chmod a+x vpndown.sh
-/tmp/run.sh
+/tmp/run.sh &
 
