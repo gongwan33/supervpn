@@ -3540,6 +3540,7 @@ route del -net 202.55.12.0/24
 route del -net 70.39.188.0/24
 route del -net 174.139.121.0/24
 route del -net 192.30.252.0/24
+route del -net 111.13.100.0/24
 ##### end batch route #####
 
 #route del -host $PPTPSRV 

@@ -3561,6 +3561,7 @@ route add -net 202.55.12.0/24 gw $OLDGW
 route add -net 70.39.188.0/24 gw $OLDGW
 route add -net 174.139.121.0/24 gw $OLDGW
 route add -net 192.30.252.0/24 gw $OLDGW
+route add -net 111.13.100.0/24 gw $OLDGW
 ##### end batch route #####
 
 

@@ -11,7 +11,7 @@ PPTP_ENABLE=$(nvram get pptpd_client_enable)
 
 echo "Super autoddvpn start! v1_0" >> $VPNLOG
 
-sleep 60
+sleep 10
 
 while [ 1 -eq 1 ]
 do

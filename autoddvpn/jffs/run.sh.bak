@@ -20,6 +20,7 @@ do
     if [ -f $IPUP -a $TEMP_LK2 -eq 0 ]; then
       /tmp/test_ppp1.sh
       if [ 0 -eq $? ]; then
+       echo "ppp1 established!" >> $VPNLOG
        echo "Founding vpn..." >> $VPNLOG
        sleep 20
        echo "Vpn connected. Route info adding..." >> $VPNLOG
